@@ -9,7 +9,7 @@ This project is the **final assignment for the Machine Learning course**, design
 ## 🧠 Project Workflow
 
 1. **🔍 Supervised Classification**
-   - Applied **6 different classification algorithms** to the dataset.
+   - Applied **6 different classification algorithms (Decision tree, K-nearest, SVM(Linear), SVM(Non-Linear, Naive Bias, Neural Network)** to the dataset.
    - Evaluated each model using key performance metrics:
      - **Accuracy**
      - **Precision**
@@ -22,7 +22,7 @@ This project is the **final assignment for the Machine Learning course**, design
 
 3. **🧩 Unsupervised Learning**
    - Converted the dataset into an **unsupervised format** by removing labels.
-   - Applied **clustering algorithms** (e.g., K-Means or Hierarchical Clustering) to form clusters.
+   - Applied **clustering algorithms** (e.g., K-Means, k-medoids, DBSCAN, and Hierarchical Clustering) to form clusters.
    - Stored the **clustered version of the dataset** for further analysis.
 
 4. **🔁 Post-Clustering Classification**
