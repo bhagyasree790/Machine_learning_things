@@ -8,6 +8,9 @@ This project is the **final assignment for the Machine Learning course**, design
 
 ## 🧠 Project Workflow
 
+<img width="736" height="348" alt="image" src="https://github.com/user-attachments/assets/3d8c015f-8362-4bfe-97ca-d44ec0d9c0ee" />
+
+
 1. **🔍 Supervised Classification**
    - Applied **6 different classification algorithms (Decision tree, K-nearest, SVM(Linear), SVM(Non-Linear, Naive Bias, Neural Network)** to the dataset.
    - Evaluated each model using key performance metrics:
