@@ -52,5 +52,9 @@ This project is the **final assignment for the Machine Learning course**, design
 - **Libraries**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 
 ---
-
+PART-1 contains dataset preprocessing, only classifications on preprocessed data (with and without cross-validation), and clustering(saving the clustered dataset).
+PART-2 contains classification without cross-validation and with cross-validation on the k-means clustered dataset.
+PART-3 contains classification without cross-validation and with cross-validation on the k-medoids clustered dataset.
+PART-4 contains classification without cross-validation and with cross-validation on the DBSCAN clustered dataset.
+PART-5 contains classification without cross-validation and with cross-validation on the Hierarchy clustered dataset.
 Let me know if you'd like to include visuals, plots, or performance summary tables as part of the final report or README.
